@@ -1,6 +1,6 @@
 html{
     font-family: 'Depot';
-    background-color: rgb(131, 0, 50);
+    background-color: rgb(103, 23, 39);
 }
 
 body{
@@ -50,8 +50,8 @@ h2{
 }
 
 .bottombutton{
-    background-color: rgb(255, 145, 0);
-    color: rgb(131, 0, 50);
+    background-color: rgb(249, 119, 24);
+    color: rgb(103, 23, 39);
     border-radius: 5px;
     text-align: center;
     padding: 15px;
